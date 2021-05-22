@@ -5,11 +5,11 @@
 ### Background
 Over a period of nine years in deep space, the NASA Kepler space telescope has been out on a planet-hunting mission to discover hidden planets outside of our solar system.
 
-This project uses the data they gathered to train two machine learning (ML) models that are intended to classify candidate exoplanets.
+The project goal is to train two machine learning (ML) models that are intended to classify candidate exoplanets.
 
 
 ### Models
-###Two Techniques
+### Two Techniques
 Logistic Regression (LR)
 Random Forest Classifier (RFC)
 
