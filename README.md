@@ -26,7 +26,7 @@ Build the final model using the tuned parameters.
 ### Model Comparison
 The RFC model was the more accurate of the two by a small margin.
 
-### Models Evaluation
+
 ![image](https://user-images.githubusercontent.com/68763904/119240476-98a2c700-bb04-11eb-916f-ed95d6fef8a6.png)
 
 
