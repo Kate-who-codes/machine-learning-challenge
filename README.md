@@ -1,5 +1,6 @@
 # Machine Learning Exoplanet Exploration
 
+![image](https://user-images.githubusercontent.com/68763904/119240553-2aaacf80-bb05-11eb-82f8-6642de94096c.png)
 
 
 ### Background
